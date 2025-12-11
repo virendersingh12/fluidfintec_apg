@@ -1,0 +1,13 @@
+{
+    apps: [
+        {
+            name: 'edex-dev',
+            script: './index.js',
+            watch: true,
+            env: {
+                NODE_ENV: 'development',
+                DEBUG: '*'
+            }
+        }
+    ]
+}
