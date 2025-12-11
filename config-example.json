@@ -1,0 +1,10 @@
+{
+    "sphonicPassword": "",
+    "postgresPool" : {
+        "user": "",
+        "host": "",
+        "database": "",
+        "password": "",
+        "port": ""
+    }
+}
